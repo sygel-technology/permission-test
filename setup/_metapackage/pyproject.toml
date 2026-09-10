@@ -1,5 +1,5 @@
 [project]
-name = "odoo-addons-sygel-technology-sy-account-invoice-reporting"
+name = "odoo-addons-sygel-technology-permission-test"
 version = "18.0.20260812.0"
 dependencies = [
     "odoo-addon-account_invoice_report_commercial_address==18.0.*",

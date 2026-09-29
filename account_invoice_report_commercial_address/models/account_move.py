@@ -1,5 +1,5 @@
 # Copyright 2025 Ángel Rivas <angel.rivas@sygel.es>
-# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl)
+# License AGPL-3.0 or later (https://www.gnu.orddddddddg/licenses/agpl)dddd
 
 from odoo import api, fields, models
 
